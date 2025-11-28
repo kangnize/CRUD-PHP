@@ -1,0 +1,44 @@
+# Database config
+
+config.php
+
+# Uploaded profile pictures
+
+uploads/
+
+# Database export (optional, if you don't want to include SQL)
+
+# db/crud_php.sql
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Environment files
+
+\*.env
+
+# PHPStorm / VSCode / IDE settings
+
+.idea/
+.vscode/
+
+# Composer dependencies (if using Composer)
+
+vendor/
+
+# Logs and temporary files
+
+\*.log
+tmp/
+temp/
+
+# Node modules (if you use any Node.js tools)
+
+node_modules/
+
+# Cache / build folders
+
+cache/
+dist/
